@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "41955023001",
+    "firebase_url": "https://gurdianlink-default-rtdb.firebaseio.com",
+    "project_id": "gurdianlink",
+    "storage_bucket": "gurdianlink.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41955023001:android:6c32095a691225cbb40008",
+        "android_client_info": {
+          "package_name": "com.girish.rishka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xuXY7OsBjZDVe5Y0ssWaanDZMmcLa88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

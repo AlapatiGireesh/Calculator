@@ -1,0 +1,83 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Calculator Outer Body -->
+    <path
+        android:fillColor="#1E2026"
+        android:strokeColor="#3F424E"
+        android:strokeWidth="1.5"
+        android:pathData="M37,22 L71,22 A7,7 0 0,1 78,29 L78,79 A7,7 0 0,1 71,86 L37,86 A7,7 0 0,1 30,79 L30,29 A7,7 0 0,1 37,22 Z" />
+
+    <!-- LCD Display Screen -->
+    <path
+        android:fillColor="#0D0E11"
+        android:strokeColor="#2E303A"
+        android:strokeWidth="1"
+        android:pathData="M38,27 L70,27 A3,3 0 0,1 73,30 L73,38 A3,3 0 0,1 70,41 L38,41 A3,3 0 0,1 35,38 L35,30 A3,3 0 0,1 38,27 Z" />
+
+    <!-- Display Digits Accent Bar -->
+    <path
+        android:strokeColor="#5B6275"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M52,34 L69,34" />
+
+    <!-- Button 1: Plus (+) -->
+    <path
+        android:fillColor="#2D3039"
+        android:pathData="M38,46 L48,46 A3,3 0 0,1 51,49 L51,59 A3,3 0 0,1 48,62 L38,62 A3,3 0 0,1 35,59 L35,49 A3,3 0 0,1 38,46 Z" />
+    <path
+        android:strokeColor="#E4E7EE"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M43,50 L43,58" />
+    <path
+        android:strokeColor="#E4E7EE"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M39,54 L47,54" />
+
+    <!-- Button 2: Minus (-) -->
+    <path
+        android:fillColor="#2D3039"
+        android:pathData="M60,46 L70,46 A3,3 0 0,1 73,49 L73,59 A3,3 0 0,1 70,62 L60,62 A3,3 0 0,1 57,59 L57,49 A3,3 0 0,1 60,46 Z" />
+    <path
+        android:strokeColor="#E4E7EE"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M61,54 L69,54" />
+
+    <!-- Button 3: Multiply (×) -->
+    <path
+        android:fillColor="#2D3039"
+        android:pathData="M38,67 L48,67 A3,3 0 0,1 51,70 L51,80 A3,3 0 0,1 48,83 L38,83 A3,3 0 0,1 35,80 L35,70 A3,3 0 0,1 38,67 Z" />
+    <path
+        android:strokeColor="#E4E7EE"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M39.5,71.5 L46.5,78.5" />
+    <path
+        android:strokeColor="#E4E7EE"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M46.5,71.5 L39.5,78.5" />
+
+    <!-- Button 4: Equals (=) with vibrant accent -->
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M60,67 L70,67 A3,3 0 0,1 73,70 L73,80 A3,3 0 0,1 70,83 L60,83 A3,3 0 0,1 57,80 L57,70 A3,3 0 0,1 60,67 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M61.5,73 L68.5,73" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M61.5,77 L68.5,77" />
+
+</vector>
